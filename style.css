@@ -26,7 +26,7 @@ a{
 
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 37vh;
     padding-left: 20vw;
     text-align: center;
 }
@@ -102,4 +102,18 @@ a{
         padding-left: 1.5rem;
         padding-top: 2rem;
     }
+}
+
+.resume-button {
+    padding: 3px;
+    font-size: 1.3rem;
+    background-color: #7A7C80;
+    color: #101214;
+    border-radius: 2px;
+}
+
+.resume-button:hover{
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
 }
