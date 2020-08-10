@@ -105,8 +105,11 @@ a{
 }
 
 .resume-button {
-    padding: 3px;
-    font-size: 1.3rem;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 1.1rem;
     background-color: #7A7C80;
     color: #101214;
     border-radius: 2px;
